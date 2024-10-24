@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Widget Example</title>
+</head>
+<body>
+    <div id="zf-widget-root-id"></div>
+    <script id="zf-pricing-table" 
+        data-digest="2-c9ff3abeb2f9ba031ea68c36f0e933317895eee2d511bcaf8983a4eddb01dcfcce9af0168fd58775196e199910c4d7e4fc7591fece751e54" 
+        src="https://zbooks-cent7-64-3.csez.zohocorpin.com:9090/zfwidgets/assets/js/zf-widget.js">
+    </script>
+</body>
+</html>
